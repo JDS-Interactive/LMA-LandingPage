@@ -1,0 +1,52 @@
+Copyright (c) 2026 Jared De Santis
+
+All Rights Reserved.
+
+This software, including but not limited to all source code, design, layout,
+assets, media, and associated materials (the "Software"), is the exclusive
+property of Jared De Santis.
+
+PERMITTED USE:
+
+You are granted a limited, non-exclusive, non-transferable license to:
+
+- View the source code
+- Use and interact with the Software in its original, unmodified form
+
+PROHIBITED USE:
+
+Without prior express written permission from Jared De Santis, you may NOT:
+
+- Copy, reproduce, or redistribute the Software in whole or in part
+- Modify, adapt, translate, or create derivative works
+- Reverse engineer, decompile, or attempt to extract underlying logic
+- Use any portion of the Software in other projects or applications
+- Sell, sublicense, lease, or commercially exploit the Software
+- Remove or alter any copyright or proprietary notices
+
+NO IMPLIED RIGHTS:
+
+This license does not grant any ownership or intellectual property rights
+to the user. All rights not expressly granted are reserved.
+
+ENFORCEMENT:
+
+Unauthorized use, duplication, or modification of this Software may result
+in legal action, including but not limited to claims for damages and
+injunctive relief.
+
+DISCLAIMER:
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+CONTACT:
+
+For licensing or permissions, contact:
+
+Jared De Santis  
+(jedarch@icloud.com)
