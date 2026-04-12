@@ -1,0 +1,16 @@
+[
+  {
+    "id": "lma.library",
+    "name": "App Library",
+    "description": "Core LMA platform",
+    "icon": "data/apps/Library.png",
+    "url": "https://library.limitless-mobile-applications.com/"
+  },  
+  {
+    "id": "lma.imagehashgenerator",
+    "name": "Image Hash",
+    "description": "Client-side hashing and verification",
+    "icon": "data/apps/ImageHashGenerator.png",
+    "url": "https://image-hash-generator.limitless-mobile-applications.com/"
+  }
+]

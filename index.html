@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Limitless Mobile Applications</title>
+
+  <link rel="icon" href="assets/favicon.ico" />
+  <link rel="stylesheet" href="css/IndexStyles.css" />
+</head>
+
+<body>
+
+<!-- SPLASH -->
+<div id="splash" class="splash">
+  <video id="splashVideo" autoplay muted>
+    <source src="assets/LimitlessIntroSequence.mp4" type="video/mp4" />
+  </video>
+
+  <div id="fadeToBlack"></div>
+
+  <div id="logoOverlay" class="logoOverlay">
+    <div class="logoText">
+      <img alt="logo" src="assets/Logo.png" width="640" />
+    </div>
+  </div>
+
+  <button type="button" id="proceedBtn">Enter</button>
+  <button type="button" id="enableSoundBtn">Enable Sound</button>
+</div>
+
+<script>
+  const video = document.getElementById("splashVideo");
+  const proceedBtn = document.getElementById("proceedBtn");
+
+  // Simple + reliable navigation
+  proceedBtn.onclick = () => {
+    window.location.href = "about.html";
+  };
+
+  // Enable sound
+  document.getElementById("enableSoundBtn").onclick = () => {
+    video.muted = false;
+    video.play();
+  };
+</script>
+
+</body>
+</html>

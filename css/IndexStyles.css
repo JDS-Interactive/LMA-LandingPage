@@ -1,0 +1,72 @@
+/* FIX VIDEO FULLSCREEN + REMOVE WHITE BAR */
+    .splash {
+      position: fixed;
+      inset: 0;
+      background: black;
+      overflow: hidden;
+    }
+
+    #splashVideo {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover; /* 🔥 THIS FIXES WHITE BAR */
+    }
+
+    #fadeToBlack {
+      position: absolute;
+      inset: 0;
+      background: black;
+      opacity: 0;
+      transition: opacity 1s ease;
+      pointer-events: none;
+    }
+
+    .logoOverlay {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      pointer-events: none;
+    }
+
+    .logoText {
+      text-align: center;
+      color: white;
+    }
+
+    .logoTitle {
+      font-size: 28px;
+      font-weight: bold;
+      margin-top: 10px;
+    }
+
+    .logoTagline {
+      font-size: 14px;
+      opacity: 0.8;
+    }
+
+    #proceedBtn {
+      position: absolute;
+      bottom: 60px;
+      left: 50%;
+      transform: translateX(-50%);
+      padding: 14px 28px;
+      font-size: 16px;
+      cursor: pointer;
+      z-index: 10;
+    }
+
+    #enableSoundBtn {
+      position: absolute;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      padding: 10px 20px;
+      font-size: 12px;
+      cursor: pointer;
+      z-index: 10;
+    }
