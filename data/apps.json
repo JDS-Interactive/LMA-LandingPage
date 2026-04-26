@@ -19,5 +19,12 @@
     "description": "Client-side investment simulator",
     "icon": "data/apps/LimitlessEdgeSimulator.png",
     "url": "https://limitless-edge-simulator.limitless-mobile-applications.com/"
+  },
+  {
+    "id": "lma.baselineabodeinitiative",
+    "name": "Baseline Abode Initiative",
+    "description": "Calculator and Manifesto for BAI project",
+    "icon": "data/apps/BaselineAbodeInitiative.png",
+    "url": "https://baseline-abode-initiative.limitless-mobile-applications.com/"
   }
 ]
