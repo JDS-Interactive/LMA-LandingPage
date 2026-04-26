@@ -26,5 +26,12 @@
     "description": "Calculator and Manifesto for BAI project",
     "icon": "data/apps/BaselineAbodeInitiative.png",
     "url": "https://baseline-abode-initiative.limitless-mobile-applications.com/"
+  },
+  {
+    "id": "lma.mindmine",
+    "name": "Mind Mine",
+    "description": "Trivia Game",
+    "icon": "data/apps/MindMine.png",
+    "url": "https://mind-mine.limitless-mobile-applications.com/"
   }
 ]
