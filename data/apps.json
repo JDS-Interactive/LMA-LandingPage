@@ -33,5 +33,12 @@
     "description": "Trivia Game",
     "icon": "data/apps/MindMine.png",
     "url": "https://mind-mine.limitless-mobile-applications.com/"
+  },
+  {
+    "id": "lma.limitlesscompendium",
+    "name": "Limitless Compendium",
+    "description": "3D Memory Map Training",
+    "icon": "data/apps/LimitlessCompendium.png",
+    "url": "https://limitless-compendium.limitless-mobile-applications.com/"
   }
 ]
