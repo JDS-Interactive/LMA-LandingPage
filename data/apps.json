@@ -40,5 +40,12 @@
     "description": "3D Memory Map Training",
     "icon": "data/apps/LimitlessCompendium.png",
     "url": "https://limitless-compendium.limitless-mobile-applications.com/"
+  },
+  {
+    "id": "lma.bodyforgeai",
+    "name": "Body Forge AI",
+    "description": "Strength and Endurance Training",
+    "icon": "data/apps/BodyForge.png",
+    "url": "https://body-forge-ai.limitless-mobile-applications.com/"
   }
 ]
