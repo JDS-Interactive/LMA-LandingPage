@@ -47,5 +47,12 @@
     "description": "Strength and Endurance Training",
     "icon": "data/apps/BodyForge.png",
     "url": "https://body-forge-ai.limitless-mobile-applications.com/"
+  },
+   {
+    "id": "lma.dogtrainer",
+    "name": "Dog Trainer",
+    "description": "Dog Training Journal",
+    "icon": "data/apps/DogTrainer.png",
+    "url": "https://dog-trainer.limitless-mobile-applications.com/"
   }
 ]
