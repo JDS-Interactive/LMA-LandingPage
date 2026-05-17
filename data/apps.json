@@ -61,5 +61,12 @@
     "description": "A cooperative Scripture journey and reflection companion for Bible study, virtue, prayer, and spiritual growth.",
     "icon": "data/apps/LivingTheWord.png",
     "url": "https://living-the-word.limitless-mobile-applications.com/"
+  },
+  {
+    "id": "lma.communications",
+    "name": "LMA Communications",
+    "description": "A Peer to Peer video communications application.",
+    "icon": "data/apps/LMA-Communications.png",
+    "url": "https://communications.limitless-mobile-applications.com/"
   }
 ]
