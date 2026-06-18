@@ -68,5 +68,12 @@
     "description": "A Peer to Peer video communications application.",
     "icon": "data/apps/LMA-Communications.png",
     "url": "https://communications.limitless-mobile-applications.com/"
+  },
+  {
+    "id": "lma.debtpayoffcalculator",
+    "name": "Debt Payoff Calculator",
+    "description": "A strategic debt payoff calculator.",
+    "icon": "data/apps/DebtPayoffCalculator.png",
+    "url": "https://debt-payoff-calculator.limitless-mobile-applications.com/"
   }
 ]
