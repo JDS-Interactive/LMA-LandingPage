@@ -5,7 +5,14 @@
     "description": "Core LMA platform",
     "icon": "data/apps/Library.png",
     "url": "https://library.limitless-mobile-applications.com/"
-  },  
+  },
+  {
+    "id": "lma.wordfall",
+    "name": "Word Fall",
+    "description": "A 1 to 2 player casual word matching game.",
+    "icon": "data/apps/Worldfall.png",
+    "url": "https://wordfall.limitless-mobile-applications.com/"
+  },
   {
     "id": "lma.imagehashgenerator",
     "name": "Image Hash",
